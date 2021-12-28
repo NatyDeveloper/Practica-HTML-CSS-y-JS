@@ -1,0 +1,9 @@
+@font-face {
+	font-family:sourcesans;
+	src: url(../fuentes/GamjaFlower-Regular.ttf);
+}
+
+@font-face {
+	font-family:sourcesans2;
+	src: url(../fuentes/textmeone-Regular.ttf); /*WOFF*/
+}
